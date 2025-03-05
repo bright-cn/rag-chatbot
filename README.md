@@ -1,6 +1,6 @@
 # 创建一个使用 GPT-4o 和 SERP 数据的 RAG 聊天机器人
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
 
 本指南将解释如何使用 Python、GPT-4o 以及 Bright Data 的 SERP API 来构建一个能够生成更精确且富含上下文信息的 AI 回答的 RAG 聊天机器人。
 
